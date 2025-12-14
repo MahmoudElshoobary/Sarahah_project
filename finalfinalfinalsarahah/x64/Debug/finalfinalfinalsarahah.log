@@ -1,0 +1,4 @@
+﻿  finalfinalfinalsarahah.cpp
+C:\Users\Dell\Desktop\finalfinalfinalsarahah\finalfinalfinalsarahah\finalfinalfinalsarahah.cpp(128,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dell\Desktop\finalfinalfinalsarahah\finalfinalfinalsarahah\finalfinalfinalsarahah.cpp(169,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  finalfinalfinalsarahah.vcxproj -> C:\Users\Dell\Desktop\finalfinalfinalsarahah\x64\Debug\finalfinalfinalsarahah.exe
